@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![We be to rap what Keys be to Locks](https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FOxdit9RevvMY4QcjIl3sNw%2Fsmall.jpg&width=801&height=801&quality=1)
